@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RR.RewardsWebApi.props" />
+</Project>

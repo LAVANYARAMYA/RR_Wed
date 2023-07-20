@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jrfVzn2JGADsvjOSEThgCfV3brFwqu1M5b81LYrAW8Q=",
+  "Source": "RR.RewardsWebApi",
+  "BasePath": "_content/RR.RewardsWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
